@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, sou Whidson 👋
+- Estou criando projetos na disciplina de tecnologia e Robótica;
 
 <!--
 **wids2024/wids2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
